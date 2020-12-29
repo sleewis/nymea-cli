@@ -1,3 +1,10 @@
+nymea-cli (1.1.6) xenial; urgency=medium
+
+  [ Simon Stürz ]
+  * WIP: Zigbee network methods
+
+ -- Jenkins <jenkins@nymea.io>  Tue, 29 Dec 2020 13:29:43 +0100
+
 nymea-cli (1.1.5) xenial; urgency=medium
 
   [ Simon Stürz ]
